@@ -1,21 +1,4 @@
 
-B
-A
-B
-                               
-D
-Cthis is a demo Repository.
-C
+this is a demo Repository.
 
-this is a demo Re
-A
-B
-B
-B
-B
-
-
-B
-C
-C
-i
+## making changes with Remote Development on VSCODE SSH on Virtual box ubuntu
